@@ -1,0 +1,131 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <!-- Nuevos eventos en Buenos Aires -->
+    <Placemark>
+      <name>5.1</name>
+      <description>Temblor leve en Puerto Madero</description>
+      <Point>
+        <coordinates>-58.3629,-34.6158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.8</name>
+      <description>Sismo moderado cerca de Plaza de Mayo</description>
+      <Point>
+        <coordinates>-58.3731,-34.6083,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.4</name>
+      <description>Terremoto leve en el barrio de Recoleta</description>
+      <Point>
+        <coordinates>-58.3939,-34.5884,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.0</name>
+      <description>Sismo leve cerca de Retiro</description>
+      <Point>
+        <coordinates>-58.3755,-34.5918,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.6</name>
+      <description>Movimiento telúrico registrado en Palermo</description>
+      <Point>
+        <coordinates>-58.4306,-34.5792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.3</name>
+      <description>Sismo leve cerca del Congreso Nacional</description>
+      <Point>
+        <coordinates>-58.3925,-34.6097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.9</name>
+      <description>Temblor cerca de Barracas</description>
+      <Point>
+        <coordinates>-58.3832,-34.6398,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.2</name>
+      <description>Terremoto leve en Villa Urquiza</description>
+      <Point>
+        <coordinates>-58.4812,-34.5767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.5</name>
+      <description>Sismo registrado en Belgrano</description>
+      <Point>
+        <coordinates>-58.4622,-34.5545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.7</name>
+      <description>Terremoto moderado cerca de Constitución</description>
+      <Point>
+        <coordinates>-58.3851,-34.6279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.7</name>
+      <description>Movimiento telúrico cerca de Caballito</description>
+      <Point>
+        <coordinates>-58.4412,-34.6163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.9</name>
+      <description>Temblor leve en Flores</description>
+      <Point>
+        <coordinates>-58.4611,-34.6334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.0</name>
+      <description>Sismo sentido cerca de Mataderos</description>
+      <Point>
+        <coordinates>-58.4982,-34.6451,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.3</name>
+      <description>Terremoto leve en Villa Lugano</description>
+      <Point>
+        <coordinates>-58.4781,-34.6718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.6</name>
+      <description>Temblor moderado en Parque Patricios</description>
+      <Point>
+        <coordinates>-58.4108,-34.6289,0</coordinates>
+      </Point>
+    </Placemark>
+        <Placemark>
+      <name>10</name>
+      <description>Temblor moderado en Parque Patricios</description>
+      <Point>
+        <coordinates>-59.4108,-33.6289,0</coordinates>
+      </Point>
+    </Placemark>
+            <Placemark>
+      <name>10</name>
+      <description>Temblor moderado en Parque Patricios</description>
+      <Point>
+        <coordinates>-59.4208,-33.6389,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.2</name>
+      <description>Sismo leve en Saavedra</description>
+      <Point>
+        <coordinates>-58.4878,-34.5411,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
